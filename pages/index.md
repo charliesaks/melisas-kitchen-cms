@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to the Future Site of Melisa's Kitchen
 permalink: /
 section: home
 intro_paragraph: >
